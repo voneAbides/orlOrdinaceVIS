@@ -1,0 +1,9 @@
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.csprojAssemblyReference.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DesktopApp\obj\Debug\DesktopApp.pdb

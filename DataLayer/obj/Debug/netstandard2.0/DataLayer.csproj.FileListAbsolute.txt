@@ -1,0 +1,9 @@
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb
