@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t2t6hnkWvC6tmIivKZ6yrmxprZDZI8wtR20yJC8qu6tEzc+gFTvd0hGlMuY8qmbgY+zk3L1q7blLUHIPWdV1Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vojti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vojti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
