@@ -6,10 +6,11 @@ namespace BusinessLayer.Class
 {
     class MedicalPrescription
     {
+        #region Private variables
         private uint MedicalPrescriptionID { get; set; }
         private DateTime Date { get; set; }
 
         private double Surcharge { get; set; }
-
+        #endregion
     }
 }

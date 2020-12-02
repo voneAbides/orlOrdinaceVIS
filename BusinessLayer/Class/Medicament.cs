@@ -6,5 +6,12 @@ namespace BusinessLayer.Class
 {
     class Medicament
     {
+        #region Private variables
+        private uint Code { get; set; }
+        private string Name { get; set; }
+        private uint InThePackage { get; set; }
+        private double Price { get; set; }
+
+        #endregion
     }
 }
