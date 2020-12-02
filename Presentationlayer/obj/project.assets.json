@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vojti\\.nuget\\packages\\": {}
+    "C:\\Users\\vone\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\Presentationlayer.csproj",
+      "projectUniqueName": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\Presentationlayer.csproj",
       "projectName": "Presentationlayer",
-      "projectPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\Presentationlayer.csproj",
-      "packagesPath": "C:\\Users\\vojti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\obj\\",
+      "projectPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\Presentationlayer.csproj",
+      "packagesPath": "C:\\Users\\vone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\Presentationlayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vojti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vone\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

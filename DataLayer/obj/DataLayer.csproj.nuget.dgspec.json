@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\vojti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\vone\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vojti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vone\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
