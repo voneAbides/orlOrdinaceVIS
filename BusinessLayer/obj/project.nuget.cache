@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "huWt7X4Ulk00eYjBNq02iL1c8wdvGyqqwNEsYgO1FBSItrLJN8VUu9+JKX5tDLxvufQNaDKOLl63oxQwd4+H6A==",
+  "dgSpecHash": "hoNEhcrpnNZ77wxBR8po4bkjJ+P1C455Ss2SPlOg8xjWJ952wKnJ/JegMgOaX7pgZCPPnW8auwQXgxz8FFLoVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\vone\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\vone\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\vojti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vojti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

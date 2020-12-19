@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\vone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vone\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\obj\\",
+        "projectPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\vojti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vojti\\Documents\\GitHub\\orlOrdinaceVIS\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vojti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

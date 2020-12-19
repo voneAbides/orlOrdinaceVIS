@@ -1,0 +1,4 @@
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\vojti\Documents\GitHub\orlOrdinaceVIS\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
