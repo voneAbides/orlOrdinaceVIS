@@ -13,8 +13,7 @@ namespace BusinessLayer.BO
         public string Password { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public bool Doctor { get; set; }
-        public bool Admin { get; set; }
+        public ushort UserRole { get; set; }
         #endregion
     }
 }
